@@ -1,3 +1,6 @@
 {
-  "commands": []
+  "commands": [{"CLEAR": "CLEAR", 
+  "FLAG": "FLAG", 
+  "UNFLAG": "UNFLAG", 
+  "END": "END"}]
 }
